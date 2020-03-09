@@ -40,7 +40,7 @@ header {
 	background: url("../images/header.jpg") no-repeat fixed center bottom / cover ;
 	position: relative;
 	text-align: center;
-	color: #FFF;
+	color: rgb(21, 69, 173);
 }
 header#itempage { 
 	padding: 4em 0 2em;
